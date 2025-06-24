@@ -1,4 +1,4 @@
-Sure Deepak, let’s go **pillar by pillar** to understand the **Three Pillars of Observability** — **Logs**, **Metrics**, and **Traces** — in **detail**, with **real Kubernetes examples** and **real-world scenarios**.
+## **Three Pillars of Observability** — **Logs**, **Metrics**, and **Traces** — in **detail**, with **real Kubernetes examples** and **real-world scenarios**.
 
 ---
 
