@@ -1,4 +1,4 @@
-### 🔍 What is Observability?
+# 💡 Introduction to Observability
 
 **Observability** is the ability to measure the **internal state of a system** based on the data it produces, like logs, metrics, and traces. It helps you **understand what's happening inside** your application or infrastructure **without modifying** it.
 
@@ -9,7 +9,6 @@ It answers:
 * **Where is the issue happening?**
 * **How is performance trending over time?**
 
-# 💡 Introduction to Observability
 - Observability is the ability to understand the internal state of a system by analyzing the data it produces, including logs, metrics, and traces.
 
 - Monitoring(Metrics): involves tracking system metrics like CPU usage, memory usage, and network performance. Provides alerts based on predefined thresholds and conditions
